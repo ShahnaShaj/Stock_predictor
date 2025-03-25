@@ -17,4 +17,12 @@ This project utilizes a **Long Short-Term Memory (LSTM)** model to predict stock
 - **Frameworks:** Streamlit for web app
 - **Database:** Real-time stock data using yfinance
 
-## Preview
+## 🚀 How to Run  
+1️⃣ Install dependencies:  
+```bash
+pip install -r requirements.txt
+```
+2️⃣  Run the Streamlit app:
+```bash
+streamlit run stocks.py
+```
